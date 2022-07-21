@@ -1,0 +1,1 @@
+{"name":"yahApp3-ui2","type":"ui-elements","source":{"https":"https://github.com/Digambaran/yahApp3-ui2","ssh":"git@github.com:Digambaran/yahApp3-ui2.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlock":false}
